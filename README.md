@@ -21,6 +21,14 @@ torch == 1.10.0
 torchvision == 0.11.2
 ```
 
+
+# Attack and TEST the fooling rate
+
+```
+python search.py
+```
+The parameters are listed from lines 21 to 52, also with line 71.
+
 # References
 ```
 @article{10.1109/TIFS.2024.3416030,
