@@ -4,7 +4,7 @@
 This is the official repository of [Texture Re-Scalable Universal Adversarial Perturbation](https://arxiv.org/pdf/2406.06089.pdf).
 The paper is accepted by TIFS 2024.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2201.06070-b31b1b.svg)]([https://arxiv.org/abs/2406.06089](https://arxiv.org/pdf/2406.06089.pdf))
+[![arXiv](https://img.shields.io/badge/arXiv-2406.06089.svg)]([https://arxiv.org/abs/2406.06089](https://arxiv.org/pdf/2406.06089.pdf))
 
 > **Texture Re-Scalable Universal Adversarial Perturbation**<br>
 > Yihao Huang, Qing Guo, Felix Juefei-Xu, Ming Hu, Xiaojun Jia, Xiaochun Cao, Geguang Pu, Yang Liu <br>
